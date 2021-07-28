@@ -1,0 +1,12 @@
+[[source]]
+url="http://pypi.doubanio.com"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+
+[dev-packages]
+fabric = "*"
+
+[requires]
+python_version = "3.7"
